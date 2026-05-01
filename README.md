@@ -5,7 +5,7 @@ This project simulates how a disease spreads through a population of plants usin
 
 The user inputs values such as the initial number of infected plants, infection rate, total time, step size, and carrying capacity. The program then calculates how the infection changes over time, displays a results table, computes the final error, and generates a graph comparing all three methods.
 
-To run the program, open a terminal and navigate the Python file. Then run the command:
+To run the program, open a terminal and navigate the file. Then run the command:
 
 python filename.py
 
